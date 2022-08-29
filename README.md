@@ -3,9 +3,12 @@
 
 # 千乇几丨乂  乃丨几卂尺丨[]
 ## Hi there 👋 developing IoT devices, Cyborg and unicorn 🦄 tamer
+
+F̵̛͖̮͎̗̤̥̏̑̅̓̏̉͘̕E̸̡͈̿̐́̌̾N̶͈͖͖̯̲͉͇̰̓̆̑̍͛̚Į̴͔̜̱͛͌̾͗͘Ẋ̷̘͕͍͙̘̑͛̂
+
 >
 > www.fenixbinario.com
-
+>
 
 ![](https://komarev.com/ghpvc/?username=fenixbinario&style=for-the-badge&color=F24578&label=Visitas+del+perfil)
 
