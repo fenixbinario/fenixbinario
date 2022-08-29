@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=fenixbinario&color=2062af&label=Vistas+del+perfil)
+
+
 <!--
 **fenixbinario/fenixbinario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
