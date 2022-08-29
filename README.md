@@ -1,9 +1,9 @@
+![](https://komarev.com/ghpvc/?username=fenixbinario&style=for-the-badge&color=F24578&label=Visitas+del+perfil)
 <img align='left' src='./assets/logo.gif' width='15%' heigh="15%">
 
 # 千乇几丨乂    乃丨几卂尺丨[]
 ## Hi there 👋 developing IoT devices, unicorn 🦄 tamer
 
-![](https://komarev.com/ghpvc/?username=fenixbinario&style=for-the-badge&color=F24578&label=Visitas+del+perfil)
 
 
 <!--
