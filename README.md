@@ -1,4 +1,4 @@
-<img align='left' src='./assets/logo.gif' width='25%' heigh="35%">
+<img align='left' src='./assets/logo.png' width='25%' heigh="35%">
 ### Hi there 👋 developing IoT devices,
 
 ![](https://komarev.com/ghpvc/?username=fenixbinario&color=2062af&label=Visitas+del+perfil)
