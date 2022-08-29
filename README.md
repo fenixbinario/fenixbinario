@@ -2,7 +2,7 @@
 
 # Hi there 👋 developing IoT devices, unicorn 🦄 tamer
 
-![](https://komarev.com/ghpvc/?username=fenixbinario&style=for-the-badge&color=brightgreen&label=Visitas+del+perfil)
+![](https://komarev.com/ghpvc/?username=fenixbinario&style=for-the-badge&color=blueviolet&label=Visitas+del+perfil)
 
 
 <!--
