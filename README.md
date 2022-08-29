@@ -2,7 +2,7 @@
 <img align='left' src='./assets/logo.gif' width='15%' heigh="15%">
 
 # 千乇几丨乂  乃丨几卂尺丨[]
-## Hi there 👋 developing IoT devices, unicorn 🦄 tamer
+## Hi there 👋 developing IoT devices, Cyborg and unicorn 🦄 tamer
 >
 > www.fenixbinario.com
 
