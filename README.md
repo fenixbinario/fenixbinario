@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=fenixbinario&color=2062af&label=Vistas+del+perfil)
+![](https://komarev.com/ghpvc/?username=fenixbinario&color=2062af&label=Visitas+del+perfil)
 
 
 <!--
