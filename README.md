@@ -1,4 +1,4 @@
-<img align='left' src='./assets/logo.gif' width='25%' heigh="35%">
+<img align='left' src='./assets/logo.gif' width='15%' heigh="15%">
 
 # Hi there 👋 developing IoT devices, unicorn 🦄 tamer
 
