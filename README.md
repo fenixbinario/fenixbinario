@@ -4,14 +4,15 @@
 # 千乇几丨乂  乃丨几卂尺丨[]
 ## Hi there 👋 developing IoT devices, Cyborg and unicorn 🦄 tamer
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fenixbinario&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fenixbinario&theme=radical&hide=makefile,html&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
 >
 > www.fenixbinario.com
 >
 
 ![](https://komarev.com/ghpvc/?username=fenixbinario&style=for-the-badge&color=F24578&label=Visitas+del+perfil)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fenixbinario&show_icons=true&theme=radical&locale=es)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fenixbinario&theme=radical&hide=makefile,html&langs_count=10&locale=es)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 <!--
