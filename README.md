@@ -5,14 +5,12 @@
 ## Hi there 👋 developing IoT devices, Cyborg and unicorn 🦄 tamer
 
 <br>
-
+![](https://komarev.com/ghpvc/?username=fenixbinario&style=for-the-badge&color=F24578&label=Visitas+del+perfil)
 >
 > www.fenixbinario.com
 >
 
-<br>
 
-![](https://komarev.com/ghpvc/?username=fenixbinario&style=for-the-badge&color=F24578&label=Visitas+del+perfil)
 
 <br>
 
