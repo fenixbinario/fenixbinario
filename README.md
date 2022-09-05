@@ -15,7 +15,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fenixbinario&theme=radical&hide=makefile,html&langs_count=10&locale=es)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fenixbinario&theme=radical&hide=makefile,html,css,scss&langs_count=10&locale=es)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
