@@ -11,11 +11,11 @@
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fenixbinario&show_icons=true&theme=radical&locale=es)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=fenixbinario&show_icons=true&theme=radical&locale=es)
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fenixbinario&theme=radical&hide=makefile,html,css,scss&langs_count=10&locale=es)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fenixbinario&theme=radical&hide=makefile,html,css,scss&langs_count=10&locale=es)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
