@@ -5,8 +5,8 @@
 ## Hi there 👋 developing IoT devices, Cyborg and unicorn 🦄 tamer
 
 <br>
+
   <a href="https://fenixbinario.com">
-    <a href="https://fenixbinario.com">
   <img src="https://komarev.com/ghpvc/?username=fenixbinario&style=for-the-badge&color=F24578&label=Visitas+del+perfil" width="450" height="50" alt="FenixBinario"/>  
     </a>
     <br>
