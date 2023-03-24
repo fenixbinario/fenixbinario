@@ -14,9 +14,13 @@
   </a>
     <br>
   <a href="https://fenixbinario.com">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fenixbinario&theme=radical&hide=makefile,html,css,scss&langs_count=10&locale=es" width="450" alt="FenixBinario"/>
-    
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=fenixbinario&theme=radical&hide_border=false&date_format=j%20M[%20Y]" width="450" alt="fenixbinario"/>
   </a>
+  <br>
+  <a href="https://fenixbinario.com">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fenixbinario&theme=radical&hide=makefile,html,css,scss&langs_count=10&locale=es" width="450" alt="FenixBinario"/>
+  </a>
+
   
 ``` www.fenixbinario.com```
 
